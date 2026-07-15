@@ -1,6 +1,6 @@
 # Netflix, Decoded 🎬
 
-### Live: [coming soon — deploying to Streamlit]
+### Live: [netflix-decoded.streamlit.app](https://netflix-decoded.streamlit.app/)
 
 Everyone has an opinion about Netflix. "They pivoted to TV." "They cancel everything after one season." "It's all international content now." Cool opinions — but 8,807 titles of catalog data are sitting right there, so I decided to check which ones are actually true.
 
